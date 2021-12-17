@@ -4,6 +4,8 @@
 
 - [First](#First)
 - [Second](#Second)
+- [Third](#Third)
+- [Fourth](#Fourth)
 
 ### First
 
@@ -31,6 +33,10 @@ if it in viewport and if section don't have (your-active-class)class i will add 
 
 call all function
 
-**First:** call first function (addItemToNav).
+**first:** call first function (addItemToNav).
 
 **Second:** I created addEventListener to during scrolling call back (addActiveClass) function to add or remove (your-active-class)class.
+
+## fourth
+
+I coded in `../css/styles.css`. I select html and make scroll-behavior : "smooth" to make scroll awesome.And Change the content and style.
